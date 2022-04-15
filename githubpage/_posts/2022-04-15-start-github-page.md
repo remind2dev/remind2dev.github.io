@@ -114,7 +114,7 @@ Push가 완료되고나면 오래걸려도 10분 이내에는 적용이 완료�
 
 ![Full-width image](/assets/img/githubpage/008.png){:.lead width="800" height="100"}
 
-github-pages 225 | Error: The jekyll-theme-hydejack theme could not be found
+github-pages 225 | Error: The jekyll-theme-hydejack theme could not be found   
 테마를 찾을 수 없다고 합니다.. 어떻게 해결해야 할까요 ?
 
 **_config.yml** 파일을 수정해주면 해결할 수 있습니다.
